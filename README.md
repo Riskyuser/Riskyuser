@@ -1,10 +1,8 @@
-[![MasterHead](https://www.careerguide.com/career/new-age-career-options/top-7-scope-in-the-field-of-coding/attachment/coding_gif)]
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif)]
 <h1 align="center">Hi 👋, I'm Hemanth D</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="coding" width="400"
-src="https://iconscout.com/lottie-animation/male-developer-5942138">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskyuser&label=Profile%20views&color=0e75b6&style=flat" alt="riskyuser" /> </p>
+src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
 - 🔭 I’m currently working on **Python**
 
@@ -22,3 +20,5 @@ src="https://iconscout.com/lottie-animation/male-developer-5942138">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
