@@ -1,4 +1,3 @@
-[![MasterHead](![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9R1qFBTWJhusUjSXjFGH6AcUJBLzeEup8Hg&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Hemanth D</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="coding" width="400"
