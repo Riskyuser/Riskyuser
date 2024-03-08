@@ -1,5 +1,8 @@
+[![MasterHead](https://www.careerguide.com/career/new-age-career-options/top-7-scope-in-the-field-of-coding/attachment/coding_gif)]
 <h1 align="center">Hi 👋, I'm Hemanth D</h1>
 <h3 align="center">A passionate Coder from India</h3>
+<img align="right" alt="coding" width="400"
+src="https://iconscout.com/lottie-animation/male-developer-5942138">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskyuser&label=Profile%20views&color=0e75b6&style=flat" alt="riskyuser" /> </p>
 
